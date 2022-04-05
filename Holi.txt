@@ -1,4 +1,9 @@
 Holi
 Hola Papu
 
-mañana nos enfocaremso en su vida laboral 
+Mañana nos enfocareremos en su vida laboral. 	
+
+
+Prueba de que se puede agregar otro colaborador. En este caso Anita
+
+
